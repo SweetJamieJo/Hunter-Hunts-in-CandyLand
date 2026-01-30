@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hunter Hunts in CandyLand (BP)",
+    "description": "CandyLand Lite behaviour pack: quests, rewards, and logic scaffolding.",
+    "uuid": "b7b7d9c6-3a3b-4c0e-a5b9-b5b1ed5f2f01",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "6eaa2ac3-2b2c-4c45-9ef4-6fa7bf4f2c02",
+      "version": [0, 1, 0]
+    }
+  ]
+}
