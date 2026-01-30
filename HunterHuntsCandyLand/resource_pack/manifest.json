@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hunter Hunts in CandyLand (RP)",
+    "description": "CandyLand Lite resource pack: textures and visuals.",
+    "uuid": "2af2f2a1-8a5d-4c2b-a0b0-5a3a7d14b901",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "7cf2d5c0-2c1e-4f58-8d6e-5a4e2d7d7a02",
+      "version": [0, 1, 0]
+    }
+  ]
+}
